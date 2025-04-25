@@ -2,8 +2,6 @@
 //  PreviewShellApp.swift
 //  PreviewShell
 //
-//  Created by Chris on 4/25/25.
-//
 
 import SwiftUI
 
