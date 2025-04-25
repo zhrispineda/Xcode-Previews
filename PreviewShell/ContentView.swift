@@ -19,7 +19,7 @@ struct ContentView: View {
             }
             VStack {
                 Spacer()
-                Link(destination: URL(string: "https://www.apple.com")!) {
+                Link(destination: URL(string: "https://help.apple.com/xcode/mac/current/#/dev793551915")!) {
                     Text("How do I preview from Xcode \(Image(systemName: "safari.fill"))")
                         .font(.callout)
                 }
